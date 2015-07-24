@@ -11,7 +11,7 @@ At the end of these exercises today and tomorrow, you will have an App Engine ap
 
 ##Paths
 
-**Fortune Cookie**
+###**Fortune Cookie**
 
 Path: /fortunecookie
 
@@ -24,7 +24,7 @@ Requirements:
 
 
 
-**Magic 8-Ball**
+###**Magic 8-Ball**
 
 Path: /8ball
 
@@ -37,7 +37,7 @@ Requirements:
 3. Ten of the possible responses that the Magic 8‐ball can give shall be positive. Five of the possible responses that the Magic 8‐ball can give shall be negative. Five of the possible responses that the Magic 8‐ball can give shall be neutral. If you want, you can use the standard [responses](http://en.wikipedia.org/wiki/Magic_8_ball#Possible_answers).
 
 
-**STRETCH: Whirlybird**
+###**STRETCH: Whirlybird**
 
 Path: /whirlybird
 
@@ -47,22 +47,22 @@ user_number = 3
 
 Requirements:
 
-+ Colors
+#### Colors
 
-  *When the user visits /whirlybird, they shall be **prompted** to pick a color: red, green, blue, and yellow. Each color shall be represented by a square button of that color. The buttons shall be arranged in 2x2 grid.
+* When the user visits /whirlybird, they shall be **prompted** to pick a color: red, green, blue, and yellow. Each color shall be represented by a square button of that color. The buttons shall be arranged in 2x2 grid.
 
-  * The user shall select a color by clicking its associated button.
+* The user shall select a color by clicking its associated button.
 
-+ Numbers
+#### Numbers
 
-  * Once the user selects a color, they shall be prompted to pick a number.
+* Once the user selects a color, they shall be prompted to pick a number.
 
-  * The user shall be allowed to pick any number between one and eight, inclusively, by clicking a button labeled with the number.
+* The user shall be allowed to pick any number between one and eight, inclusively, by clicking a button labeled with the number.
 
-+ Fortunes
+#### Fortunes
 
-  *  Once the user has selected both a color and a number, they shall be presented with a fortune
+*  Once the user has selected both a color and a number, they shall be presented with a fortune
 
-  *  Each fortune shall be at least two sentences long.
+*  Each fortune shall be at least two sentences long.
 
-  * The sum of number the user selected and the number of letters in the color the user selected shall uniquely identify the fortune they receive. Which is to say, if that sum is equal for two different selections, the fortunes produced shall be the same.
+* The sum of number the user selected and the number of letters in the color the user selected shall uniquely identify the fortune they receive. Which is to say, if that sum is equal for two different selections, the fortunes produced shall be the same.
