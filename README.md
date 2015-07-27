@@ -40,14 +40,16 @@ Requirements:
 Path: /whirlybird
 
 Based on the color and number that a user picks, a fortune is generated. Tomorrow, the user will be selecting a color and number using buttons. But for now hard code them. 
-user_color = blue
-user_number = 3
+* userColor = blue
+* userNumber = 3
 
 Requirements:
 
+You should read the color and number requirement so that you can understand the final project. For today (Monday) just worry about writing the logic that gives the fortune.
+
 #### Colors
 
-* When the user visits /whirlybird, they shall be **prompted** to pick a color: red, green, blue, and yellow. Each color shall be represented by a square button of that color. The buttons shall be arranged in 2x2 grid.
+* When the user visits /whirlybird, they shall be prompted to pick a color: red, green, blue, and yellow. Each color shall be represented by a square button of that color. The buttons shall be arranged in 2x2 grid.
 
 * The user shall select a color by clicking its associated button.
 
