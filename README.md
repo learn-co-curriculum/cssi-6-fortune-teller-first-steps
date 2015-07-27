@@ -30,7 +30,7 @@ Path: /8ball
 
 Requirements:
 
-1. Users will eventually be prompted to enter a question when they go to this path. But for now, use a hardcoded question in the handler. User_Question = "Will I have a good day today?"
+1. Users will eventually be prompted to enter a question when they go to this path. But for now, use a hardcoded question in the handler. userQuestion = "Will I have a good day today?"
 
 2. Ten of the possible responses that the Magic 8‐ball can give shall be positive. Five of the possible responses that the Magic 8‐ball can give shall be negative. Five of the possible responses that the Magic 8‐ball can give shall be neutral. If you want, you can use the standard [responses](http://en.wikipedia.org/wiki/Magic_8_ball#Possible_answers).
 
