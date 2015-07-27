@@ -35,6 +35,12 @@ Requirements:
 2. Ten of the possible responses that the Magic 8‐ball can give shall be positive. Five of the possible responses that the Magic 8‐ball can give shall be negative. Five of the possible responses that the Magic 8‐ball can give shall be neutral. If you want, you can use the standard [responses](http://en.wikipedia.org/wiki/Magic_8_ball#Possible_answers).
 
 
+
+## Done Early? Two Options
+1. Tomorrow you will be able to include html and css files. For today you can write them in the same directory as your fortune teller application. You should have a an eightball.html file, a cookie.html file and you can send it a default string for now.
+
+2. Alternatively, you can start to add the whirlybird feature in the Stretch lab below.
+
 ###**STRETCH: Whirlybird**
 
 Path: /whirlybird
