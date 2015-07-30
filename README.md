@@ -1,9 +1,4 @@
----
-tags:cssi, gae, python
-level: 4
-languages:python
-resources: cold reading
----
+
 
 # Fortune Teller Challenge
 
