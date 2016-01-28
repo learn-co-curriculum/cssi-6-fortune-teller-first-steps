@@ -68,4 +68,4 @@ You should read the color and number requirement so that you can understand the 
 
 * The sum of number the user selected and the number of letters in the color the user selected shall uniquely identify the fortune they receive. Which is to say, if that sum is equal for two different selections, the fortunes produced shall be the same.
 
-<a href='https://learn.co/lessons/cssi-6-fortune-teller-first-steps' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-6-fortune-teller-first-steps' title='Fortune Teller Challenge'>Fortune Teller Challenge</a> on Learn.co and start learning to code for free.</p>
